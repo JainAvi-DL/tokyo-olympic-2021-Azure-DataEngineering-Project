@@ -3,7 +3,8 @@
 📌 Project Overview
 This project demonstrates a comprehensive data engineering pipeline built on Microsoft Azure to process and analyze the Tokyo Olympics 2021 dataset. The goal was to migrate raw data from an external source (AWS S3), transform it into a structured format, and derive actionable business insights using modern cloud-native tools.
 
-<img width="1086" height="572" alt="image" src="https://github.com/user-attachments/assets/e79da6e9-50ed-4053-958f-961dd1266917" />
+<img width="1003" height="568" alt="image (5)" src="https://github.com/user-attachments/assets/de11ad5b-47be-468a-a229-c47ddac8629a" />
+
 
 
 
